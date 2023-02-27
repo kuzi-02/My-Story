@@ -29,10 +29,6 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="https://www.loom.com/share/c2e2149f5dd8468b9b29806a5f9fdc6f">
-
-    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c2e2149f5dd8468b9b29806a5f9fdc6f-with-play.gif">
-  </a>
 
 ## Notes
 
