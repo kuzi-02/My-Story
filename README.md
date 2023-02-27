@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 
 - [x] Users are able to see a customized app icon and launch screen
 - [x] Your app should work for any screen size and orientation using AutoLayout constraints
-  - [ x] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
+- [x] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
 - [x] Users are able to see at least 3 context items
 - [x] Users are able to tap into each context item and see detail view contains information about each item (title, description, picture if applicable, etc.)
  
@@ -41,7 +41,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Kuzivakwashe Mavera]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
