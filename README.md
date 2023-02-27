@@ -4,7 +4,7 @@ Submitted by: **Kuzivakwashe Mavera**
 
 **My Story** is an app that introduces Kuzivakwashe to everyone else. It allows users to check Kuziva's passions, funfacts, and college life through a tap gesture which leads to a window with the information 
 
-Time spent: **20** hours spent in total
+Time spent: **15** hours spent in total
 
 ## Required Features
 
