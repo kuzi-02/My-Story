@@ -32,6 +32,10 @@ Here's a walkthrough of implemented user stories:
 <a href="https://www.loom.com/share/ccfc763cb4c94fe39a766f4db097d553">
     <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ccfc763cb4c94fe39a766f4db097d553-with-play.gif">
   </a>
+  
+  <a href="https://www.loom.com/share/0024ab1c011c46c7b536f19edd2d96fd">
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0024ab1c011c46c7b536f19edd2d96fd-with-play.gif">
+  </a>
 
 ## Notes
 
